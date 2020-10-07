@@ -1,3 +1,4 @@
-body{background-color: aqua;}
-body>div{margin: auto;
+body{background-color: aqua; font-family: 'Patrick Hand', cursive;}
+body>div{margin: 0 auto;
 width: 50%;}
+.picture{width: 200px; }
