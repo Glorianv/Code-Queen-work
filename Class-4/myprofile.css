@@ -1,4 +1,29 @@
-body{background-color: aqua; font-family: 'Patrick Hand', cursive;}
+body{background-color: plum; font-family: 'Patrick Hand', cursive; font-size: large;}
 body>div{margin: 0 auto;
 width: 50%;}
-.picture{width: 200px; }
+.picture{width: 200px;}
+.intro{ 
+    margin: 0 auto; width: 700px; height: 500px;border-color: black; border-top: 1px; border-left: 1px;
+    background-color: blanchedalmond; padding: 10px; border-radius: 2%; margin-bottom: 4px; text-align: center ;
+}
+.info{ 
+    margin: 0 auto; width: 700px; height: 200px;border-color: black; border-top: 1px; border-left: 1px;
+    background-color: blanchedalmond; padding: 10px; border-radius: 2%;margin-bottom: 4px;
+}
+.love{ 
+        margin: 0 auto; width: 700px; height: 150px;border-color: black; border-top: 1px; border-left: 1px;
+        background-color: blanchedalmond; padding: 10px; border-radius: 2%;margin-bottom: 4px;
+    }
+.abilities{ 
+            margin: 0 auto; width: 700px; height: 300px;border-color: black; border-top: 1px; border-left: 1px;
+            background-color: blanchedalmond; padding: 10px; border-radius: 2%;margin-bottom: 4px;
+        }
+         
+.hobbies{ 
+            margin: 0 auto; width: 700px; height: 250px;border-color: black; border-top: 1px; border-left: 1px;
+            background-color: blanchedalmond; padding: 10px; border-radius: 2%; margin-bottom: 4px;
+        }        
+.follow{ 
+            margin: 0 auto; width: 700px; height: 200px;border-color: black; border-top: 1px; border-left: 1px;
+            background-color: blanchedalmond; padding: 10px; border-radius: 2%; margin-bottom: 4px;
+        }        
