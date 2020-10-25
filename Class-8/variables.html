@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>07.1 Variables Practice: Shopping List </title>
+        <link rel="stylesheet" href="./variables.css">
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    </head>
+    <body>
+        <div class="navbar">Hello <span class="nav-name"></span></div>
+        <p>What do you want to shop for today, <span class="welcome-name"></span>?</p>
+        <div class="images">
+            <img src="http://dreamstop.com/wp-content/uploads/2013/11/Fruit-Dreams.jpg">
+            <img src="https://i0.wp.com/www.onegreenplanet.org/wp-content/uploads/2015/08/cheese.jpg?fit=1200%2C800&w=640">
+            <img src="https://breadtopia.com/wp-content/uploads/2015/05/breadtopia-no-knead-bread.jpg">
+        </div>
+
+        <div><a href="https://#">Go to <span class="link-name"></span>'s past orders</a></div>
+        <div><a href="https://#">More recommendations for <span class="rec-name"></span></a></div>
+    </body>
+</html>
+<script>
+    let username;
+    username="Sandie"
+$(".nav-name").text(username);
+
+$(".welcome-name").text(username);
+
+$(".link-name").text(username);
+
+$(".rec-name").text(username);
+</script>
