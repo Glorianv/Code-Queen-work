@@ -1,0 +1,10 @@
+#student-list{
+    display: flex;
+    justify-content: space-evenly;
+}
+.column{
+    width: 20%;
+    background-color: purple;
+    color: white;
+    text-align: center;
+}
