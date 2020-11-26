@@ -1,0 +1,31 @@
+body{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdMM5-QOiACfCJiVIvQH-A2y52pPcLv1Gspg&usqp=CAU);
+    
+}
+.main{
+    width: 500px;
+    background-color: white;
+    margin: 0 auto;
+    padding-left: 2rem;
+    justify-content: center;
+    border-radius: 8%;
+}
+.input-field{
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+    
+}
+.save-btn{
+    background-color: blue;
+    color: white;
+    border-radius: 5px;
+    border:0;
+    width:6rem;
+    height:2rem;
+    cursor: pointer;
+    
+}
+.button-division{
+    padding-bottom: 2rem;
+    padding-top: 2rem;
+}
