@@ -4,7 +4,7 @@ const createElement = (name) =>{
 } 
 
 const saveBtn = document.createElement("button");
-saveBtn.classList.add("completed-btn");
+saveBtn.classList.add("save-btn");
 saveBtn.innerHTML="Save";
 saveBtn.style.cursor='pointer';
 
@@ -12,4 +12,4 @@ saveBtn.addEventListener('click',()=>{
     
 });
 
-todoItemButtons.appendChild(completedBtn);
+saveBtn.appendChild(saveBtn);
